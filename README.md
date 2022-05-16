@@ -1,4 +1,17 @@
-### Hi there 👋
+## 👋 Hello, I'm Christy!
+
+
+I'm a Design Technologist/UX Engineer that is passionate about user-centered design, building scalable applications, continuosly learning, and mentoring others.
+
+### Connect with me 📭
+
+- [LinkedIn](https://www.linkedin.com/in/christy-presler/)
+
+### Technologies
+- JavaScript — TypeScript
+- Sass/Scss
+- React
+- Next.js
 
 <!--
 **cpresler/cpresler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
