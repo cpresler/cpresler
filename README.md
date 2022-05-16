@@ -3,6 +3,18 @@
 
 I'm a Design Technologist/UX Engineer that is passionate about user-centered design, building scalable applications, continuosly learning, and mentoring others.
 
+### 5 Reasons to Add Me to Your Team
+
+1. I build scalable, mobile-first applications that optimize user experience, technical performance, and business goals.
+
+2. I design and build with the user in mind — great software starts with understanding people and the issues they are facing.
+
+3. I speak the languages of design and development — and I'm happy to help you get your teams collaborating well across disciplines.
+
+4. I make teams better — my creative problem solving extends to my relationships with my teammates and I do the work necessary to make teams into collaborative units the produce top-notch results.
+
+5. I like challenges and I enjoy learning new things.
+
 ### Connect with me 📭
 
 - [LinkedIn](https://www.linkedin.com/in/christy-presler/)
