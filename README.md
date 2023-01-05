@@ -11,7 +11,7 @@ I'm a Design Technologist/UX Engineer that is passionate about user-centered des
 
 3. I speak the languages of design and development — and I'm happy to help you get your teams collaborating well across disciplines.
 
-4. I make teams better — my creative problem solving extends to my relationships with my teammates and I do the work necessary to make teams into collaborative units the produce top-notch results.
+4. I make teams better — my creative problem solving extends to my relationships with my teammates and I do the work necessary to make teams into collaborative units that produce top-notch results.
 
 5. I like challenges and I enjoy learning new things.
 
