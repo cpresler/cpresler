@@ -10,10 +10,11 @@ I'm a Design Engineer that is passionate about user-centered design, building sc
 2. I design and build with the user in mind — great software starts with understanding people and the issues they are facing.
 
 3. I speak the languages of design and development — and I'm happy to help you get your teams collaborating well across disciplines.
+    - And I build tooling to support collaboration where it is happening (I co-authored [FigLog](https://github.com/FormidableLabs/FigLog) - a Figma widget for logging changes in design systems)
 
-4. I make teams better — my creative problem solving extends to my relationships with my teammates and I do the work necessary to make teams into collaborative units that produce top-notch results.
+5. I make teams better — my creative problem solving extends to my relationships with my teammates and I do the work necessary to make teams into collaborative units that produce top-notch results.
 
-5. I like challenges and I enjoy learning new things.
+6. I like challenges and I enjoy learning new things.
 
 ### Connect with me 📭
 
