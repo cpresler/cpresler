@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Christy!
 
 
-I'm a Design Technologist/UX Engineer that is passionate about user-centered design, building scalable applications, continuosly learning, and mentoring others.
+I'm a Design Engineer that is passionate about user-centered design, building scalable and accessible applications with design systems, and continuously learning through mentoring others.
 
 ### 5 Reasons to Add Me to Your Team
 
@@ -21,9 +21,11 @@ I'm a Design Technologist/UX Engineer that is passionate about user-centered des
 
 ### Technologies
 - JavaScript — TypeScript
-- Sass/Scss
+- Design Systems and Tokens
+- Figma
 - React
 - Next.js
+- React Native
 
 <!--
 **cpresler/cpresler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
